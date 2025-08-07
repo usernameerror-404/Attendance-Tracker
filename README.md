@@ -14,11 +14,11 @@ Tracks lecture and practical attendance separately with undo and total percentag
    -ubuntu
    -Buildozer
 
+Earlier prototypes are also added for easy understanding
+
 ## Tech Stack
 - Python 3.12
 - Kivy
-
-## Earlier prototypes are also added for easy understanding
 
 ## Author
 Yatesh Sharma - [LinkedIn](https://www.linkedin.com/in/yatesh-sharma/)
