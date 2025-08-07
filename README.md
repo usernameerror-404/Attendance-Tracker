@@ -1,4 +1,3 @@
-# Attendance-Tracker
 # Attendance Tracker App
 
 A Python-based Attendance Tracker built using **Kivy**.  
