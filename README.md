@@ -4,7 +4,7 @@ A Python-based Attendance Tracker built using **Kivy**.
 Tracks lecture and practical attendance separately with undo and total percentage calculation.
 
 ## Features
-- Add subjects with individual attendance rules (e.g., practical = 2 points)
+- Add subjects with individual attendance rules (e.g., practical = 2 points).
 - Present/Absent buttons
 - Undo functionality
 - Live attendance % tracking
